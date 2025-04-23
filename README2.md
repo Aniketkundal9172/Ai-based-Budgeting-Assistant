@@ -1,0 +1,2 @@
+# Ai_chatbot
+🚀 AI Budgeting Assistant: Smart AI-powered chatbot that offers real-time budgeting tips, tracks spending patterns, allows model selection, and integrates securely with APIs to help users manage money and save effectively.
