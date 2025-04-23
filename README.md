@@ -12,7 +12,8 @@ An interactive Streamlit chatbot that helps users manage their expenses, plan bu
 
 ## 📷 Interface Preview
 
-![UI Preview](https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg?cs=srgb&dl=pexels-pixabay-53621.jpg&fm=jpg)
+![Screenshot 2025-04-23 093703](https://github.com/user-attachments/assets/a05a851e-9fa1-4198-8bfd-103d25f8168c)
+
 
 ## 🛠️ Built With
 
