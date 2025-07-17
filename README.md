@@ -53,11 +53,9 @@ This project uses the OpenRouter AI API. To use it:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙋 Authors
+## 🙋 Author
 
-- Reg. No: 12313061  
-- Reg. No: 12316660  
-- Reg. No: 12315690
+Aniket Kundal
 
 ---
 
